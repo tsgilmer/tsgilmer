@@ -23,12 +23,16 @@ Key outcomes:
 • Identified critical grid nodes that amplify cascading failures  
 • Modeled blackout probability across transmission corridors
 
+### Cascade Participation Heatmap
 ![TVA Grid Heatmap](TVA Grid Heatmap.png)
 
+### Transmission Network Map
 ![TVA Grid Map](TVA Grid Map.png)
 
+### Blackout Probability Map
 ![TVA Blackout Probability Map](TVA Blackout Probability Map.png)
 
+### Critical Trigger Locations
 ![TVA Critical Blackout Trigger Map](TVA Critical Blackout Trigger Map.png)
 
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
