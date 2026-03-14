@@ -5,7 +5,7 @@ I build simulation and machine learning models to analyze **resilience and disru
 My work focuses on:
 
 • Monte Carlo simulation  
-• system resilience modeling  
+• systems resilience modeling  
 • machine learning for operational decision support  
 • network-based infrastructure analysis
 
@@ -99,16 +99,16 @@ Key outcomes:
 
 ## Technical Skills
 
-Languages  
+Languages
 Python, SQL
 
-Tools  
+Libraries / Tools
 NetworkX, NumPy, Pandas, Scikit-learn, Matplotlib
 
-Methods  
-Monte Carlo simulation  
-Machine learning  
-system dynamics modeling  
-network analysis
+Methods
+Monte Carlo simulation
+Machine learning
+Systems modeling
+Network analysis
 
 I also have certification in FANUC Robotics during my time as a robot doctor at Mazda Toyota Manufacturing, as well as hands-on experience with the robots, including building applicators, helping install lines, as well as work with PELT machines for paint film builds, wave scan meters, and color meters. 
