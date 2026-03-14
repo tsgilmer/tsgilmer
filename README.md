@@ -23,7 +23,10 @@ Key outcomes:
 • Identified critical grid nodes that amplify cascading failures  
 • Modeled blackout probability across transmission corridors
 
-https://github.com/tsgilmer/tsgilmer/blob/main/TVA%20Grid%20Map.png?raw=true
+![TVA Grid Heatmap](TVA_Grid_Heatmap.png)
+![TVA Grid Map](TVA_Grid_Map.png)
+![TVA Blackout Probability Map](TVA_Blackout_Probability_Map.png)
+![TVA Critical Blackout Trigger Map](TVA_Cascade_Heatmap.png)
 
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
 Machine learning model predicting parts shortages in a just-in-time production system with closed-loop operational decision control.
@@ -35,6 +38,10 @@ Key outcomes:
 • Reduced simulated shortage occurrence  
 • Evaluated operational tradeoffs between overtime and inventory stability
 
+![Figure 1](Figure_1.png)
+![Figure 2](Figure_2.png)
+![Figure 3](Figure_3.png)
+![Figure 4](Figure_4.png)
 
 ---
 
@@ -48,8 +55,13 @@ Key outcomes:
 • Modeled supply disruption risk  
 • Evaluated production resilience strategies
 
+![JIT_Weather_Figure_Loss_Distribution](JIT_Weather_Figure_Loss_Distribution.png)
+![JIT_Weather_Vulnerability_Radar](JIT_Weather_Vulnerability_Radar.png)
+![JIT_Weather_Survival_Curve](JIT_Weather_Survival_Curve.png)
+![JIT_Weather_Heatmap](JIT_Weather_Heatmap.png)
 
 ---
+
 
 ## Technical Skills
 
