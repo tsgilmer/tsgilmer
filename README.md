@@ -50,15 +50,19 @@ Key outcomes:
 • Evaluated operational tradeoffs between overtime and inventory stability
 
 ---
+**Inventory Trajectory with Closed Loop**
 ![Figure 1](Figure%201.png)
 
 ---
+**Inventory Trajectory Human vs ML**
 ![Figure 2](Figure%202.png)
 
 ---
+**Distribution of OT over Simulations**
 ![Figure 3](Figure%203.png)
 
 ---
+**Distribution of Shortage Risk Reduction (Human vs ML Policy)**
 ![Figure 4](Figure%204.png)
 
 ---
@@ -74,15 +78,19 @@ Key outcomes:
 • Evaluated production resilience strategies
 
 ---
+**Weather Figure Loss Distribution**
 ![JIT_Weather_Figure_Loss_Distribution](JIT_Weather_Figure_Loss_Distribution.png)
 
 ---
+**Weather Corridor Vulnerability**
 ![JIT_Weather_Vulnerability_Radar](JIT_Weather_Vulnerability_Radar.png)
 
 ---
+**Severe Weather Supply Chain Survivability Curve**
 ![JIT_Weather_Survival_Curve](JIT_Weather_Survival_Curve.png)
 
 ---
+**Inventory Buffer Heatmap**
 ![JIT_Weather_Heatmap](JIT_Weather_Heatmap.png)
 
 ---
