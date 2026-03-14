@@ -25,6 +25,8 @@ Key outcomes:
 
 
 
+
+
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
 Machine learning model predicting parts shortages in a just-in-time production system with closed-loop operational decision control.
 
