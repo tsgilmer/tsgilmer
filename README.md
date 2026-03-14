@@ -22,6 +22,7 @@ Python, NetworkX, Monte Carlo simulation, Matplotlib
 Key outcomes:
 • Identified critical grid nodes that amplify cascading failures  
 • Modeled blackout probability across transmission corridors
+
 ---
 ### Cascade Participation Heatmap
 ![TVA Grid Heatmap](TVA%20Grid%20Heatmap.png)
