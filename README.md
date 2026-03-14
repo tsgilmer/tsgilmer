@@ -23,15 +23,7 @@ Key outcomes:
 • Identified critical grid nodes that amplify cascading failures  
 • Modeled blackout probability across transmission corridors
 
-### Cascade Participation Heatmap
-![Cascade Heatmap](images/cascade_heatmap.png)
 
-### Critical Trigger Nodes
-![Critical Nodes](images/critical_nodes.png)
-
-### Blackout Probability Map
-![Blackout Probability](images/blackout_probability.png)
----
 
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
 Machine learning model predicting parts shortages in a just-in-time production system with closed-loop operational decision control.
@@ -42,6 +34,7 @@ Python, Scikit-learn, Random Forest, Monte Carlo simulation
 Key outcomes:
 • Reduced simulated shortage occurrence  
 • Evaluated operational tradeoffs between overtime and inventory stability
+
 
 ---
 
@@ -54,7 +47,8 @@ Python, stochastic simulation, inventory modeling
 Key outcomes:
 • Modeled supply disruption risk  
 • Evaluated production resilience strategies
- 
+
+
 ---
 
 ## Technical Skills
