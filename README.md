@@ -23,9 +23,7 @@ Key outcomes:
 • Identified critical grid nodes that amplify cascading failures  
 • Modeled blackout probability across transmission corridors
 
-
-
-
+https://github.com/tsgilmer/tsgilmer/blob/main/TVA%20Grid%20Map.png?raw=true
 
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
 Machine learning model predicting parts shortages in a just-in-time production system with closed-loop operational decision control.
