@@ -23,6 +23,14 @@ Key outcomes:
 • Identified critical grid nodes that amplify cascading failures  
 • Modeled blackout probability across transmission corridors
 
+### Cascade Participation Heatmap
+![Cascade Heatmap](images/cascade_heatmap.png)
+
+### Critical Trigger Nodes
+![Critical Nodes](images/critical_nodes.png)
+
+### Blackout Probability Map
+![Blackout Probability](images/blackout_probability.png)
 ---
 
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
@@ -46,7 +54,7 @@ Python, stochastic simulation, inventory modeling
 Key outcomes:
 • Modeled supply disruption risk  
 • Evaluated production resilience strategies
-
+ 
 ---
 
 ## Technical Skills
