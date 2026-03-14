@@ -24,16 +24,16 @@ Key outcomes:
 • Modeled blackout probability across transmission corridors
 
 ### Cascade Participation Heatmap
-![TVA Grid Heatmap](TVA Grid Heatmap.png)
+![TVA Grid Heatmap](TVA%20Grid%20Heatmap.png)
 
 ### Transmission Network Map
-![TVA Grid Map](TVA Grid Map.png)
+![TVA Grid Map](TVA%20Grid%20Map.png)
 
 ### Blackout Probability Map
-![TVA Blackout Probability Map](TVA Blackout Probability Map.png)
+![TVA Blackout Probability Map](TVA%20Blackout%20Probability%20Map.png)
 
 ### Critical Trigger Locations
-![TVA Critical Blackout Trigger Map](TVA Critical Blackout Trigger Map.png)
+![TVA Critical Blackout Trigger Map](TVA%20Critical%20Blackout%20Trigger%20Map.png)
 
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
 Machine learning model predicting parts shortages in a just-in-time production system with closed-loop operational decision control.
@@ -45,13 +45,13 @@ Key outcomes:
 • Reduced simulated shortage occurrence  
 • Evaluated operational tradeoffs between overtime and inventory stability
 
-![Figure 1](Figure 1.png)
+![Figure 1](Figure%201.png)
 
-![Figure 2](Figure 2.png)
+![Figure 2](Figure%202.png)
 
-![Figure 3](Figure 3.png)
+![Figure 3](Figure%203.png)
 
-![Figure 4](Figure 4.png)
+![Figure 4](Figure%204.png)
 
 ---
 
