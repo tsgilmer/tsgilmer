@@ -13,6 +13,48 @@ My work focuses on:
 
 ## Featured Projects
 
+# Reinforcement Learning for JIT Manufacturing Optimization
+
+## 📌 Overview
+
+This project develops a reinforcement learning (RL)-based decision support system for a simulated Just-in-Time (JIT) manufacturing environment under stochastic disruptions.
+
+The goal is to improve operational decision-making by reducing:
+- Production shortages
+- Unnecessary overtime
+- Overall system cost
+
+A Q-learning agent is trained to replace a traditional threshold-based reactive policy.
+
+---
+
+## 🏭 Problem Context
+
+JIT manufacturing systems minimize inventory but are highly sensitive to disruptions. Traditional control policies rely on fixed inventory thresholds, which are reactive and do not account for uncertainty or system dynamics.
+
+This project explores whether RL can provide a more adaptive and efficient control strategy.
+
+---
+
+## ⚙️ Methodology
+
+- Simulation of a dual-shift manufacturing system
+- Stochastic demand and supply disruptions
+- Q-learning reinforcement learning agent
+- 500 training episodes
+- 50 independent evaluation runs (Monte Carlo simulation)
+
+### Actions:
+- 0 → Do nothing
+- 1 → Call overtime
+
+Results
+
+![Reward comparison](RL%20vs%20Reactive%20Fig.%201.png)
+![Shortage comparison](RL%20v%20Reactive%20Figure%202.png)
+![OT comparison](RL%20vs%20Reactive%20Fig.%203.png)
+![Cost comparison](RL%20vs%20Reactive%20Cost%20Comparison.png)
+
 ### TVA Grid Cascading Failure Simulation
 Network model of the Tennessee Valley Authority power grid analyzing cascading failure propagation and systemic blackout risk.
 
