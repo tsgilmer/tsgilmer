@@ -80,6 +80,11 @@ This results in a dominant decision strategy—simultaneously improving shortage
 - Jupyter / Google Colab
 
 
+## Full Report
+
+[View Full Project Report](report/RL%20v%20Reactive%20Report.pdf)
+
+
 
 ### TVA Grid Cascading Failure Simulation
 Network model of the Tennessee Valley Authority power grid analyzing cascading failure propagation and systemic blackout risk.
@@ -106,6 +111,10 @@ Key outcomes:
 ---
 ### Critical Trigger Locations
 ![TVA Critical Blackout Trigger Map](TVA%20Critical%20Blackout%20Trigger%20Map.png)
+
+## Full Report
+
+[View Full Project Report](report/TVA%Cascade%Report.pdf).
 
 ---
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
@@ -134,6 +143,10 @@ Key outcomes:
 **Distribution of Shortage Risk Reduction (Human vs ML Policy)**
 ![Figure 4](Figure%204.png)
 
+## Full Report
+
+[View Full Project Report](report/ISE%20726%20Final%20Project.pdf)
+
 ---
 
 ### Weather-Driven JIT Supply Chain Disruption Model
@@ -161,6 +174,10 @@ Key outcomes:
 ---
 **Inventory Buffer Heatmap**
 ![JIT_Weather_Heatmap](JIT_Weather_Heatmap.png)
+
+## Full Report
+
+[View Full Project Report](report/JIT%20Weather%20Report.pdf)
 
 ---
 
