@@ -15,6 +15,11 @@ My work focuses on:
 
 # Reinforcement Learning for JIT Manufacturing Optimization (RL -vs- Reactive)
 
+### Key Results:
+- ↓ Shortages by ~17%
+- ↓ Overtime by ~19%
+- ~$2,280 annual cost savings
+  
 ## Overview
 
 This project develops a reinforcement learning (RL)-based decision support system for a simulated Just-in-Time (JIT) manufacturing environment under stochastic disruptions.
@@ -48,18 +53,20 @@ This project explores whether RL can provide a more adaptive and efficient contr
 - 0 → Do nothing
 - 1 → Call overtime
 
+Results
+
 ![Reward comparison](RL%20vs%20Reactive%20Fig.%201.png)
 ![Shortage comparison](RL%20v%20Reactive%20Figure%202.png)
 ![OT comparison](RL%20vs%20Reactive%20Fig.%203.png)
+
 ![Cost comparison](Rl%20vs%20Reactive%20Cost%20Comparison.png)
 
-### Key Results:
-- ↓ Shortages by ~17%
-- ↓ Overtime by ~19%
-- ~$2,280 annual cost savings
 
-### Key Insight:
-The RL agent learned to apply overtime selectively, improving both reliability and efficiency simultaneously—demonstrating a dominant strategy over traditional threshold-based control.
+## Key Insight
+
+Unlike traditional threshold-based policies, the RL agent learns system context (inventory levels and disruption states) and selectively applies overtime only when it is truly beneficial.
+
+This results in a **dominant strategy**, improving both shortage reduction and cost efficiency simultaneously.
 
 ### TVA Grid Cascading Failure Simulation
 Network model of the Tennessee Valley Authority power grid analyzing cascading failure propagation and systemic blackout risk.
