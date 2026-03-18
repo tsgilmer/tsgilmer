@@ -2,12 +2,8 @@ My name is Tyler "Slade" Gilmer, and I am a graduate student at the University o
 
 I design and build **data-driven decision systems** for complex, disruption-prone environments, focusing on manufacturing systems and infrastructure networks.
 
-My work combines:
-- simulation
-- machine learning
-- systems modeling
+My work combines simulation, machine learning, and systems modeling to improve resilience, efficiency, and operational decision-making.
 
-To improve **resilience, efficiency, and operational decision-making**.
 ---
 
 ## Featured Projects
