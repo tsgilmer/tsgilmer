@@ -114,7 +114,7 @@ Key outcomes:
 
 ## Full Report
 
-[View Full Project Report](TVA%Cascade%Report.pdf).
+[View Full Project Report](TVA%20Cascade%20Report.pdf).
 
 ---
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
