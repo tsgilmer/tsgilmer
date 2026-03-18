@@ -53,7 +53,7 @@ Results
 ![Reward comparison](RL%20vs%20Reactive%20Fig.%201.png)
 ![Shortage comparison](RL%20v%20Reactive%20Figure%202.png)
 ![OT comparison](RL%20vs%20Reactive%20Fig.%203.png)
-![Cost comparison](RL%20vs%20Reactive%20Cost%20Comparison.png)
+![Cost comparison](Rl%20vs%20Reactive%20Cost%20Comparison.png)
 
 ### TVA Grid Cascading Failure Simulation
 Network model of the Tennessee Valley Authority power grid analyzing cascading failure propagation and systemic blackout risk.
