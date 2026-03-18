@@ -15,7 +15,7 @@ My work focuses on:
 
 # Reinforcement Learning for JIT Manufacturing Optimization (RL -vs- Reactive)
 
-## 📌 Overview
+## Overview
 
 This project develops a reinforcement learning (RL)-based decision support system for a simulated Just-in-Time (JIT) manufacturing environment under stochastic disruptions.
 
@@ -28,7 +28,7 @@ A Q-learning agent is trained to replace a traditional threshold-based reactive 
 
 ---
 
-## 🏭 Problem Context
+## Problem Context
 
 JIT manufacturing systems minimize inventory but are highly sensitive to disruptions. Traditional control policies rely on fixed inventory thresholds, which are reactive and do not account for uncertainty or system dynamics.
 
@@ -36,7 +36,7 @@ This project explores whether RL can provide a more adaptive and efficient contr
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 - Simulation of a dual-shift manufacturing system
 - Stochastic demand and supply disruptions
@@ -53,12 +53,12 @@ This project explores whether RL can provide a more adaptive and efficient contr
 ![OT comparison](RL%20vs%20Reactive%20Fig.%203.png)
 ![Cost comparison](Rl%20vs%20Reactive%20Cost%20Comparison.png)
 
-### 🔧 Key Results:
+### Key Results:
 - ↓ Shortages by ~17%
 - ↓ Overtime by ~19%
-- 💰 ~$2,280 annual cost savings
+- ~$2,280 annual cost savings
 
-### 🧠 Key Insight:
+### Key Insight:
 The RL agent learned to apply overtime selectively, improving both reliability and efficiency simultaneously—demonstrating a dominant strategy over traditional threshold-based control.
 
 ### TVA Grid Cascading Failure Simulation
