@@ -1,22 +1,21 @@
 My name is Tyler "Slade" Gilmer, and I am a graduate student at the University of Alabama in Huntsville, majoring in Industrial and Systems Engineering.
 
-I build simulation and machine learning models to analyze **resilience and disruption propagation in complex systems**, including manufacturing supply chains and infrastructure networks.
+I design and build **data-driven decision systems** for complex, disruption-prone environments, focusing on manufacturing systems and infrastructure networks.
 
-My work focuses on:
+My work combines:
+- simulation
+- machine learning
+- systems modeling
 
-• Monte Carlo simulation  
-• systems resilience modeling  
-• machine learning for operational decision support  
-• network-based infrastructure analysis
-
+To improve **resilience, efficiency, and operational decision-making**.
 ---
 
 ## Featured Projects
 
 # Reinforcement Learning for JIT Manufacturing Optimization (RL -vs- Reactive)
-A reinforcement learning-based decision system that improves both reliability and efficiency in JIT manufacturing under uncertainty.
+A reinforcement learning-based decision system that reduces shortages and overtime in JIT manufacturing, improving both reliability and cost efficiency under uncertainty.
 
-### Key Results:
+### Impact:
 - ↓ Shortages by ~17%
 - ↓ Overtime by ~19%
 - ~$2,280 annual cost savings
@@ -197,3 +196,7 @@ Systems modeling
 Network analysis
 
 I also have certification in FANUC Robotics during my time as a robot doctor at Mazda Toyota Manufacturing, as well as hands-on experience with the robots, including building applicators, helping install lines, as well as work with PELT machines for paint film builds, wave scan meters, and color meters. 
+
+## Contact
+
+I’m actively seeking opportunities in systems engineering, manufacturing engineering, or data-driven operations roles. My phone number is (256)627-7162 and my email is gilmer72086@yahoo.com
