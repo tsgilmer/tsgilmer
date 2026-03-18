@@ -82,7 +82,7 @@ This results in a dominant decision strategy—simultaneously improving shortage
 
 ## Full Report
 
-[View Full Project Report](report/RL%20v%20Reactive%20Report.pdf)
+[View Full Project Report](RL%20v%20Reactive%20Report.pdf)
 
 
 
@@ -114,7 +114,7 @@ Key outcomes:
 
 ## Full Report
 
-[View Full Project Report](report/TVA%Cascade%Report.pdf).
+[View Full Project Report](TVA%Cascade%Report.pdf).
 
 ---
 ### Predictive Parts Shortage Risk Modeling in JIT Manufacturing
@@ -145,7 +145,7 @@ Key outcomes:
 
 ## Full Report
 
-[View Full Project Report](report/ISE%20726%20Final%20Project.pdf)
+[View Full Project Report](ISE%20726%20Final%20Project.pdf)
 
 ---
 
@@ -177,7 +177,7 @@ Key outcomes:
 
 ## Full Report
 
-[View Full Project Report](report/JIT%20Weather%20Report.pdf)
+[View Full Project Report](JIT%20Weather%20Report.pdf)
 
 ---
 
