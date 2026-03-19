@@ -8,6 +8,77 @@ My work combines simulation, machine learning, and systems modeling to improve r
 
 ## Featured Projects
 
+# Urban Traffic Flow & Resilience Model (Huntsville Case Study)
+
+## Overview
+This project develops a network-based traffic simulation model to analyze congestion propagation, system resilience, and infrastructure vulnerability in Huntsville, Alabama.
+
+The model evaluates how disruptions, demand variability, and time-of-day patterns impact system performance, with a focus on identifying critical bottlenecks and effective mitigation strategies.
+
+---
+
+## Key Features
+
+- Directed network model of urban traffic corridors
+- Volume-delay congestion modeling (BPR function)
+- Monte Carlo simulation for stochastic demand and incidents
+- Time-of-day demand modeling (AM Peak, PM Peak, Midday, Night)
+- Scenario analysis (baseline, incident, and targeted improvement)
+- Visualization of network congestion and system performance
+
+---
+
+## Key Results
+
+- Disruption of a critical corridor (I-565) increased total system delay by **+1851%**
+- Monte Carlo simulation revealed a **low-frequency, high-impact failure system (~6% probability)**
+- Targeted improvements to alternate corridors restored system performance to baseline levels
+- AM Peak produced the highest congestion, indicating vulnerability due to concentrated inbound demand
+
+---
+
+## Methodology
+
+- Graph-based traffic network (nodes = zones, edges = corridors)
+- Shortest-path traffic assignment with iterative updates
+- Nonlinear congestion modeled using volume-delay functions
+- Stochastic simulation with random incidents and demand variability
+
+---
+
+## Visualizations
+
+### Baseline Network
+![Baseline](HSV_Traffic_Map_Fig.%201.png)
+
+### Incident Scenario
+![Incident](HSV_Traffic_Map_Incident_Fig.%202.png)
+
+### Monte Carlo Delay Distribution
+![Monte Carlo](HSV_MC_Distribution_of_Delay_Fig_4.png)
+
+### Time-of-Day Analysis
+![Time of Day](HSV_Time_of_Day_Delay_Fig%205.png)
+
+---
+
+## Tools & Technologies
+
+- Python
+- NumPy, Pandas
+- NetworkX
+- Matplotlib
+- Monte Carlo Simulation
+
+---
+
+## Report
+
+Full analysis available here:
+
+[Traffic Flow & Resilience Report](HSV%20Traffic%20Model%20Report.pdf)
+
+
 # Reinforcement Learning for JIT Manufacturing Optimization (RL -vs- Reactive)
 A reinforcement learning-based decision system that reduces shortages and overtime in JIT manufacturing, improving both reliability and cost efficiency under uncertainty.
 
