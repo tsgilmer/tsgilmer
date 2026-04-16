@@ -12,7 +12,7 @@ My work combines simulation, machine learning, and systems modeling to improve r
 
 ## 📄 Final Paper
 
-(paper/American%20Heartland%20Rail%20Final.pdf)
+(American%20Heartland%20Rail%20Final.pdf)
 
 ## 📊 Overview
 
