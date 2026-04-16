@@ -12,7 +12,7 @@ My work combines simulation, machine learning, and systems modeling to improve r
 
 ## 📄 Final Paper
 
-(American%20Heartland%20Rail%20Final.pdf)
+paper/American%20Heartland%20Rail%20Final.pdf
 
 ## 📊 Overview
 
@@ -34,7 +34,7 @@ This project presents a phased, economically viable intercity rail network for t
 ## 🗺️ Figures
 
 ![Map](AHR%20V2%20Fig%201.png)
-![Failure Nodes](AHR%20%V2%20Fig%202.png)
+![Failure Nodes](AHR%20V2%20Fig%202.png)
 ![Baseline Performance](AHR%20V2%20Fig%203.png)
 ![Monte Carlo Distribution](AHR%20V2%20Fig%204.png)
 ![Most important connectors](AHR%20V2%20Fig%205.png)
