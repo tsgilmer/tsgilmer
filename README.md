@@ -33,9 +33,9 @@ This project presents a phased, economically viable intercity rail network for t
 
 ## 🗺️ Figures
 
-![Map](AHR%20%V2%20Fig%201.png)
+![Map](AHR%20V2%20Fig%201.png)
 ![Failure Nodes](AHR%20%V2%20Fig%202.png)
-![Baseline Performance](AHR%20%V2%20Fig%203.png)
+![Baseline Performance](AHR%20V2%20Fig%203.png)
 ![Monte Carlo Distribution](AHR%20V2%20Fig%204.png)
 ![Most important connectors](AHR%20V2%20Fig%205.png)
 
