@@ -8,6 +8,34 @@ My work combines simulation, machine learning, and systems modeling to improve r
 
 ## Featured Projects
 
+# American Heartland Rail System
+
+## 📄 Final Paper
+
+(paper/American_Heartland_Rail_Final.pdf)
+
+## 📊 Overview
+
+This project presents a phased, economically viable intercity rail network for the U.S. Midwest and South. The model evaluates ridership, revenue, and benefit-cost ratios across multiple corridor configurations using simulation and economic analysis.
+
+## 🔧 Methods
+
+* Network modeling (Python / NetworkX)
+* Gravity-based demand modeling
+* Monte Carlo simulation
+* Cost-benefit and BCR analysis
+
+## 📈 Key Results
+
+* Strong BCR (>2.0 in base case)
+* Robust performance across sensitivity scenarios
+* Identified high-impact corridors (Chicago–Nashville, Texas Triangle, etc.)
+
+## 🗺️ Figures
+
+See `/figures` folder for maps and results visualizations.
+
+
 # Urban Traffic Flow & Resilience Model (Huntsville Case Study)
 
 ## Overview
